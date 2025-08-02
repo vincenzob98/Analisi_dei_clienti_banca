@@ -1,4 +1,3 @@
-# Analisi_dei_clienti_banca
 # Analisi dei Clienti di una Banca
 
 ## 📌 Descrizione
